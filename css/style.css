@@ -1,1 +1,4 @@
 /* Add any custom CSS stylings you want here */
+img {
+    border-radius: 16px;
+}
